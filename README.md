@@ -9,8 +9,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 python=3.6
+
 tensorflow=1.2.1
+
 numpy=1.16.3
+
 gym
 
 ### Installing
